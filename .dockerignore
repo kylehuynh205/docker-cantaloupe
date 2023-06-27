@@ -1,0 +1,5 @@
+build.gradle.kts
+README.dockerhub.md
+README.md
+tests
+tests/**/*
