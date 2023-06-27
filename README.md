@@ -253,4 +253,3 @@ additional settings, volumes, ports, etc.
 [Cantaloupe Documentation]: https://cantaloupe-project.github.io/manual/3.1/getting-started.html
 [Cantaloupe Logs]: https://cantaloupe-project.github.io/manual/3.1/logging.html
 [Cantaloupe]: https://cantaloupe-project.github.io/
-# docker-cantaloupe
